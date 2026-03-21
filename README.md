@@ -1,5 +1,4 @@
-# Hi, Welcome to my GitHub!
-- Atharv Bisht
+# Hi, I am Atharv Bisht
 - 1st Year B.Tech Student (Computer Science & Engineering - Core)
 - VIT Bhopal University
 
