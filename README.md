@@ -1,5 +1,6 @@
-# Hi, I'm Atharv Bisht
+# Hi, Welcome to my GitHub!
+- Atharv Bisht
 - 1st Year B.Tech Student (Computer Science & Engineering - Core)
 - VIT Bhopal University
 
-I am interested in learning programming and improving my technical skills.
+I hope to learn and deepen my understanding of programming concepts while improving my problem-solving and technical skills.
